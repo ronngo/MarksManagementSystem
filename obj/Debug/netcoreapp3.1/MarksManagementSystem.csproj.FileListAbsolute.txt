@@ -1,0 +1,13 @@
+D:\baitap\MarksManagementSystem\obj\Debug\netcoreapp3.1\MarksManagementSystem.csprojAssemblyReference.cache
+D:\baitap\MarksManagementSystem\obj\Debug\netcoreapp3.1\MarksManagementSystem.AssemblyInfoInputs.cache
+D:\baitap\MarksManagementSystem\obj\Debug\netcoreapp3.1\MarksManagementSystem.AssemblyInfo.cs
+D:\baitap\MarksManagementSystem\obj\Debug\netcoreapp3.1\MarksManagementSystem.csproj.CoreCompileInputs.cache
+D:\baitap\MarksManagementSystem\bin\Debug\netcoreapp3.1\MarksManagementSystem.exe
+D:\baitap\MarksManagementSystem\bin\Debug\netcoreapp3.1\MarksManagementSystem.deps.json
+D:\baitap\MarksManagementSystem\bin\Debug\netcoreapp3.1\MarksManagementSystem.runtimeconfig.json
+D:\baitap\MarksManagementSystem\bin\Debug\netcoreapp3.1\MarksManagementSystem.runtimeconfig.dev.json
+D:\baitap\MarksManagementSystem\bin\Debug\netcoreapp3.1\MarksManagementSystem.dll
+D:\baitap\MarksManagementSystem\bin\Debug\netcoreapp3.1\MarksManagementSystem.pdb
+D:\baitap\MarksManagementSystem\obj\Debug\netcoreapp3.1\MarksManagementSystem.dll
+D:\baitap\MarksManagementSystem\obj\Debug\netcoreapp3.1\MarksManagementSystem.pdb
+D:\baitap\MarksManagementSystem\obj\Debug\netcoreapp3.1\MarksManagementSystem.genruntimeconfig.cache
